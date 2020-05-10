@@ -1,2 +1,1 @@
-# HiveMind-Internship
-HiveMind Internship Tasks
+# HiveMind Internship Tasks
